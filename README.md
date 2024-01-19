@@ -4,3 +4,7 @@
 <!-- Twitter clickable from shields.io -->
 <a href="https://twitter.com/John_fries_">
 <img align="center" src="https://img.shields.io/twitter/follow/John_fries_?label=Twitter&style=social&logo=twitter"/>
+</a>
+<a href="https://www.youtube.com/channel/UCSM2lWUEUYiR9q1vXX9r6Hw">
+  <img align="center" src="https://img.shields.io/youtube/channel/subscribers/UCSM2lWUEUYiR9q1vXX9r6Hw"/>
+</a>
