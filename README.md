@@ -8,3 +8,6 @@
 <a href="https://www.youtube.com/channel/UCSM2lWUEUYiR9q1vXX9r6Hw">
   <img align="center" src="https://img.shields.io/youtube/channel/subscribers/UCSM2lWUEUYiR9q1vXX9r6Hw"/>
 </a>
+<a href="https://discord.gg/pqXYh3PQtk">
+  <img align="center" src="https://img.shields.io/badge/Discord-Join-rgb(85%2C%2085%2C%2085)?style=flat&logo=discord&color=7289d9"/>
+</a>
