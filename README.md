@@ -11,3 +11,6 @@
 <a href="https://discord.gg/pqXYh3PQtk">
   <img align="center" src="https://img.shields.io/badge/Discord-Join-rgb(85%2C%2085%2C%2085)?style=flat&logo=discord&color=7289d9"/>
 </a>
+
+## About Me
+### I'm a jack of all trades poking my hand in all areas and trying to learn skill sets in multiple areas. My main programing language is Java Script but I've learnt a few other languages and I'm always looking to know more!
