@@ -13,4 +13,4 @@
 </a>
 
 ## About Me
-### I'm a jack of all trades poking my hand in all areas and trying to learn skill sets in multiple areas. My main programing language is Java Script but I've learnt a few other languages and I'm always looking to know more!
+### I'm a jack of all trades poking my hand in all areas and trying to learn skill sets in multiple areas. My main programing language is Java Script and HTML but I've learnt a few other languages and I'm always looking to know more!
