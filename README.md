@@ -16,5 +16,5 @@
 ### I'm a jack of all trades poking my hand in all areas and trying to learn skill sets in multiple areas. My main programing language is Java Script and HTML but I've learnt a few other languages and I'm always looking to know more!
 
 
-https://johnfries.net
-https://johnfries.net/socials
+<a href=https://johnfries.net>My website!</a>
+<a href=https://johnfries.net/socials>My social media's!</a>
